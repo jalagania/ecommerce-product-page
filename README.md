@@ -7,5 +7,5 @@
 ### Built with
 
 - HTML5
-- SCSS (CSS Grid, Flexbox, CSS custom properties)
-- JS
+- CSS (CSS Grid, Flexbox)
+- REACT
